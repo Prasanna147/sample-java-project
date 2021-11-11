@@ -1,6 +1,13 @@
 <project>
   <modelVersion>3.8.3</modelVersion>
-  
+  <groupId>@groupId@</groupId>
+  <artifactId>@artifactId@</artifactId>
+  <version>@version@</version>
+  <packaging>jar</packaging>
+
+  <name>@ant.project.name@</name>
+  <description>@description@</description>
+  <url>@project.url@</url>
 
   <licenses>
     <license>
